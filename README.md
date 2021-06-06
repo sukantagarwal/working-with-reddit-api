@@ -1,5 +1,5 @@
 # working-with-reddit-api
-<img src="https://cbsnews3.cbsistatic.com/hub/i/r/2017/12/19/9f9441cd-a70a-4388-83a9-e0d7f16bf123/thumbnail/620x350/c36f93bea031470cfb91323426a1fbdd/reddit-logo.jpg#" alt="drawing" width="200"/>
+<img src="Reddit_Lockup_OnDark.png" alt="drawing"/>
 This repo records all my learnings while exploring reddit API.
 
 ## Getting Started
