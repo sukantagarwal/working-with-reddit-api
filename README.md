@@ -1,5 +1,5 @@
 # working-with-reddit-api
-<img src="Reddit_Lockup_OnDark.png" alt="drawing"/>
+<img src="Reddit_Lockup_OnDark.png" alt="drawing" width="150px" height="auto"/>
 This repo records all my learnings while exploring reddit API.
 
 ## Getting Started
